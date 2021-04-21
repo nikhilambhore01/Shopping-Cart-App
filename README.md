@@ -18,7 +18,7 @@
 
 ### Preview
 **Checkout the application here** 
-[Demo]()
+[Demo](https://nikhilambhore01.github.io/Shopping-Cart-App/)
 
 
 
