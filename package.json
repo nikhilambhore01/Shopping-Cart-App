@@ -1,5 +1,6 @@
 {
   "name": "redux-shopping-app",
+  "homepage": "https://nikhilambhore01.github.io/Shopping-Cart-App",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,6 +8,7 @@
     "@testing-library/react": "^11.2.6",
     "@testing-library/user-event": "^12.8.3",
     "firebase": "^8.4.1",
+    "gh-pages": "^3.1.0",
     "noty": "^3.2.0-beta-deprecated",
     "notyf": "^3.9.0",
     "react": "^17.0.2",
@@ -21,6 +23,8 @@
     "web-vitals": "^1.1.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
