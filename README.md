@@ -1,3 +1,29 @@
+# Shopping cart application built with React & Redux
+
+- This simple application prototype shows how we can use React 
+  and Redux to build a user friendly experience with instant visual updates.
+
+
+## Features
+- Design Shopping Cart Using React
+- Add and remove items from cart.
+- Implement React Components For Product List, Cart, Add Product.
+- Edit the quantity of the items in real time
+- Add products to firebase database.
+- Managing Component State using Redux, React-Redux.
+- Added Routes using React-Routers
+- Dynamic cards are design
+- Build Backend using Firebase.
+
+
+### Preview
+**Checkout the application here** 
+[Demo]()
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
