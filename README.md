@@ -8,12 +8,10 @@
 - Design Shopping Cart Using React
 - Add and remove items from cart.
 - Implement React Components For Product List, Cart, Add Product.
-- Edit the quantity of the items in real time
-- Add products to firebase database.
+- Edit the quantity of the items in real time.
 - Managing Component State using Redux, React-Redux.
 - Added Routes using React-Routers
 - Dynamic cards are design
-- Build Backend using Firebase.
 
 
 ### Preview
